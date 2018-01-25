@@ -6,7 +6,7 @@
 
 ## Dog Breed Classification Project
 
-This was a project I completed as part of the Udacity Machine Learning Nanodegree. It consists of building a pipeline that can be used within a web or mobile app to process real-world, user-supplied images. I think build out a model which, given an image of a dog, predicts the canin's breed. I first try building a CNN from scatch and then use transfer learning with a VGG16 pretrained model to improve performance.
+This was a project I completed as part of the Udacity Machine Learning Nanodegree. It consists of building a pipeline that can be used within a web or mobile app to process real-world, user-supplied images. I then build out a model which, given an image of a dog, predicts the canin's breed. I first try building a CNN from scatch and then use transfer learning with a pretrained VGG16 model to improve performance.
 
 All the relevant code is in the jupyter notebook: dog_app.ipynb
 
